@@ -9,6 +9,8 @@ public class ExampleThursday {
     public static void main(String[] args) {
        System.out.println("test");
        System.out.println("Second test");
+              System.out.println("Third test");
+
     }
     
 }
