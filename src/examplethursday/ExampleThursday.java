@@ -10,6 +10,7 @@ public class ExampleThursday {
        System.out.println("test");
        System.out.println("Second test");
        System.out.println("Third test");
+       System.out.println("Fourth Test");
        
     }
     
